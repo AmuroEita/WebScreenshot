@@ -35,7 +35,7 @@ urls = getUrls()
 urlsLen = len(urls)
 print('一共有: ' + str(urlsLen) + ' 条URL')
 for i in range(0, urlsLen):
-    time.sleep(5)
+    time.sleep(20)
     save_screenshot(urls[i])
     print('截图成功: ' + urls[i])
     
