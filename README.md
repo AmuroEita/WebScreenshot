@@ -1,6 +1,6 @@
 # WebScreenshot
 
-> 利用 GitHub Actions 每天 定时 网页截图，并保存到 `gh-pages` 分支
+> 利用 GitHub Actions 每天 定时 网页截图，并保存到 `pic` 分支
 
 ## 如何使用？
 
