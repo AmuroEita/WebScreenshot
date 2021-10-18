@@ -3,7 +3,7 @@ name: Run App
 on:
   push:
   schedule:
-    # 定时任务，在每天的5点执行
+    # 定时任务，在每天的12 AM执行
     - cron: '0 12 * * *'
 
 jobs:
